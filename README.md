@@ -17,6 +17,9 @@ Hour of Code Project on GitHub
 
 - [Repo](https://github.com/berryny/hourofcode_python)
 - [Clone](https://github.com/berryny/hourofcode_python.git)
+- mybinder reop
+    - [Jupyter Notebook](https://mybinder.org/v2/gh/berryny/hourofcode_python.git/HEAD)
+    - [Jupyter Lab](https://mybinder.org/v2/gh/berryny/hourofcode_python.git/HEAD?urlpath=lab)
 
 ## Python Language Introduction
 
