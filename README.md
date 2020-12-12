@@ -49,6 +49,12 @@ Open Data for All New Yorkers - [Open Data](https://opendata.cityofnewyork.us/) 
 - coronavirus-data [repo](https://github.com/nychealth/coronavirus-data) 
 - covid-maps [repo](https://github.com/nychealth/covid-maps)
 
+## Other COVID Source
+
+COVID-19 data processing with Pandas DataFrame 
+
+[site](https://towardsdatascience.com/covid-19-data-processing-58aaa3663f6)
+
 ## Continue Learning
 
 - [Udemy, Inc.](https://www.udemy.com/)
