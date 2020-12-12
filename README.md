@@ -1,6 +1,6 @@
 # Hour of Code: Intro to Python
 
-Learning Python from the comfort of your home and create an interactive experience hosted by [Silicon Harlem](http://siliconharlem.net/).
+Learn Python from the comfort of your home and create an interactive experience hosted by [Silicon Harlem](http://siliconharlem.net/).
 - [Facebook](https://www.facebook.com/siliconharlem/)
 
 ## Python Language Introduction
@@ -16,6 +16,9 @@ Python was created in the late 1980s, and first released in 1991, by Guido van R
 ## Jupyter Notebook
 
 The [Jupyter Notebook](https://jupyter.org/) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. 
+
+- [Try Jupyter](https://jupyter.org/try)
+- [Jupyter notebooks with Binder](https://mybinder.org/)
 
 ## Open Data NYC
 
