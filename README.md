@@ -3,6 +3,10 @@
 Learn Python from the comfort of your home and create an interactive experience hosted by [Silicon Harlem](http://siliconharlem.net/).
 - [Facebook](https://www.facebook.com/siliconharlem/)
 
+## Git
+
+[Git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
 ## Github
 
 [GitHub, Inc.](https://github.com/) is a subsidiary of Microsoft which provides hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
