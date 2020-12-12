@@ -1,0 +1,16 @@
+*.cfg
+.vscode
+
+# Environments
+# .env
+# .venv
+env/
+venv/
+ENV/
+
+# Python
+*.pyc
+
+# Jupyter Notebook
+__pycache__
+.ipynb_checkpoints
