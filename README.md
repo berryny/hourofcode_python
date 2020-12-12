@@ -64,3 +64,7 @@ COVID-19 data processing with Pandas DataFrame
 - [Udemy, Inc.](https://www.udemy.com/)
 - [LinkedIn Learning](https://www.lynda.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
+
+## Contact Information
+
+[LinkedIn](https://www.linkedin.com/in/jdesire/)
