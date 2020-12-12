@@ -3,6 +3,21 @@
 Learn Python from the comfort of your home and create an interactive experience hosted by [Silicon Harlem](http://siliconharlem.net/).
 - [Facebook](https://www.facebook.com/siliconharlem/)
 
+## Github
+
+[GitHub, Inc.](https://github.com/) is a subsidiary of Microsoft which provides hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+
+About GitHub, Inc. [source](https://en.wikipedia.org/wiki/GitHub)
+
+Recordings from 2020 GitHub [virtual conference](https://githubuniverse.com/)
+
+## The Project
+
+Hour of Code Project on GitHub
+
+- [Repo](https://github.com/berryny/hourofcode_python)
+- [Clone](https://github.com/berryny/hourofcode_python.git)
+
 ## Python Language Introduction
 
 ![](python-logo.gif)
@@ -24,11 +39,6 @@ The [Jupyter Notebook](https://jupyter.org/) is an open-source web application t
 
 Open Data for All New Yorkers - [Open Data](https://opendata.cityofnewyork.us/) is free public data published by New York City agencies and other partners.
 
-## Github
-
-[GitHub, Inc.](https://github.com/) is a subsidiary of Microsoft which provides hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
-
-[source](https://en.wikipedia.org/wiki/GitHub)
 
 ## NYC Department of Health and Mental Hygiene
 
