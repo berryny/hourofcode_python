@@ -15,6 +15,61 @@ About GitHub, Inc. [source](https://en.wikipedia.org/wiki/GitHub)
 
 Recordings from 2020 GitHub [virtual conference](https://githubuniverse.com/)
 
+
+## Commit Using Git
+
+What is [Git](https://git-scm.com/)?
+
+- GIT is not **GitHub**
+  - GitHub is just a platform used to save and store your code, and track its versions in a more
+    visual way.
+- Git is a free and open source distributed version-control system for tracking changes in source code during software development.
+- Learn how to use Git to enhance your experience using GitHub. Click [here](https://docs.github.com/en/github/using-git)
+- [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+- Managing remote repositories. Click [here](https://docs.github.com/en/github/using-git/managing-remote-repositories)
+
+### Using Git in Glitch
+
+Open **Terminal**
+
+Terminal **Git** comments
+
+```
+git branch
+git add .
+git commit -m "explain what changes you made as the reasoning for commiting to Github repo"
+git remote add origin https://github.com/<username>/cas.git
+git push origin master
+```
+
+- Username for 'https://github.com': `<username>`
+- Password for 'https://berryny@github.com': `<your password>`
+
+### Connect from Desktop to Github
+
+- Create a new repository on the command line
+
+```
+echo "# <repo name>" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/<username>/<repo>.git
+git push -u origin master
+```
+
+- Push an existing repository from the command line
+
+```
+git remote add origin https://github.com/<username>/<repo>.git
+git push -u origin master
+```
+
+### Create a README.md: Basic writing and formatting syntax
+
+Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+[Learn more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
 ## The Project
 
 Hour of Code Project on GitHub
@@ -34,6 +89,10 @@ Hour of Code Project on GitHub
 Python was created in the late 1980s, and first released in 1991, by Guido van Rossum as a successor to the ABC programming language. Python 2.0, released in 2000, introduced new features, such as list comprehensions, and a garbage collection system with reference counting, and was discontinued with version 2.7 in 2020. Python 3.0, released in 2008, was a major revision of the language that is not completely backward-compatible and much Python 2 code does not run unmodified on Python 3.
 
 [source](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
+
+## Anaconda
+
+[Anaconda](https://www.anaconda.com/) is the birthplace of Python data science.
 
 ## Jupyter Notebook
 
@@ -64,7 +123,8 @@ COVID-19 data processing with Pandas DataFrame
 - [Udemy, Inc.](https://www.udemy.com/)
 - [LinkedIn Learning](https://www.lynda.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
+- [Women Who Code (WWCode)](https://www.womenwhocode.com/)
 
-## Contact Information
+## Stay in Touch
 
 [LinkedIn](https://www.linkedin.com/in/jdesire/)
