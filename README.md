@@ -101,6 +101,12 @@ The [Jupyter Notebook](https://jupyter.org/) is an open-source web application t
 - [Try Jupyter](https://jupyter.org/try)
 - [Jupyter notebooks with Binder](https://mybinder.org/)
 
+## Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+Python extension for Visual Studio Code [install](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
 ## Open Data NYC
 
 Open Data for All New Yorkers - [Open Data](https://opendata.cityofnewyork.us/) is free public data published by New York City agencies and other partners.
