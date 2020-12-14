@@ -1,7 +1,17 @@
 # Hour of Code: Intro to Python
 
 Learn Python from the comfort of your home and create an interactive experience hosted by [Silicon Harlem](http://siliconharlem.net/).
-- [Facebook](https://www.facebook.com/siliconharlem/)
+- Silicon Harlem [Facebook](https://www.facebook.com/siliconharlem/)
+
+## The Project
+
+Hour of Code Project on GitHub
+
+- [Repo](https://github.com/berryny/hourofcode_python)
+- [Clone](https://github.com/berryny/hourofcode_python.git)
+- [mybinder](https://mybinder.org/) repo - Turn a Git repo into a collection of interactive notebooks. 
+    - [Jupyter Notebook](https://mybinder.org/v2/gh/berryny/hourofcode_python.git/HEAD)
+    - [Jupyter Lab](https://mybinder.org/v2/gh/berryny/hourofcode_python.git/HEAD?urlpath=lab)
 
 ## Git
 
@@ -14,7 +24,6 @@ Learn Python from the comfort of your home and create an interactive experience 
 About GitHub, Inc. [source](https://en.wikipedia.org/wiki/GitHub)
 
 Recordings from 2020 GitHub [virtual conference](https://githubuniverse.com/)
-
 
 ## Commit Using Git
 
@@ -70,25 +79,44 @@ git push -u origin master
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 [Learn more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
-## The Project
+#### README Technical Writer Guide
 
-Hour of Code Project on GitHub
-
-- [Repo](https://github.com/berryny/hourofcode_python)
-- [Clone](https://github.com/berryny/hourofcode_python.git)
-- mybinder reop
-    - [Jupyter Notebook](https://mybinder.org/v2/gh/berryny/hourofcode_python.git/HEAD)
-    - [Jupyter Lab](https://mybinder.org/v2/gh/berryny/hourofcode_python.git/HEAD?urlpath=lab)
+[Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools) - A GitHub repository containing lists of suggested tools for technical writers.
 
 ## Python Language Introduction
 
-![](python-logo.gif)
+![](https://raw.githubusercontent.com/berryny/hourofcode_python/main/python-logo.gif)
 
 [Python](https://www.python.org/) is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
 
 Python was created in the late 1980s, and first released in 1991, by Guido van Rossum as a successor to the ABC programming language. Python 2.0, released in 2000, introduced new features, such as list comprehensions, and a garbage collection system with reference counting, and was discontinued with version 2.7 in 2020. Python 3.0, released in 2008, was a major revision of the language that is not completely backward-compatible and much Python 2 code does not run unmodified on Python 3.
 
 [source](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
+
+### Keyboard Symbols
+
+
+- `# This is a comment` Pythong Comment
+- `!` exclamation mark
+- `<` less than
+- `>` greater than
+- `/` forwardslash
+- `\` backslash
+- `=` equal
+- `' '` single quote
+- `" "` double quote
+- `-` dash / hyphen
+- `_` underscore
+- `;` semicolon
+- `@` the at sign used for `@staticmethod` or `@app.route()`
+- `(` open parenthesis
+- `)` close parenthesis
+- `.` period
+- `#` **pound / number sign** or hashtag
+- `{ }` curly brace / bracket
+- `{` open curly brace / open bracket
+- `}` close curly brace / close bracket
+
 
 ## Anaconda
 
@@ -106,6 +134,10 @@ The [Jupyter Notebook](https://jupyter.org/) is an open-source web application t
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
 Python extension for Visual Studio Code [install](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+## Docker
+
+[Docker](https://www.docker.com/) is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
 
 ## Open Data NYC
 
